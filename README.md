@@ -6,4 +6,5 @@ This repository is work in progress. I will add comments and details to every fi
 
 The books I referred to are: Python for Everybody, Exploring Data Using Python 3 by Charles R. Severance and Think Python by Allen Downey
 
-I have created a short tutorial for Numpy. Try it out and explore it on your own!
+Numpy is a very import python library which is similar to matlab. It is resourceful and necessary to do a lot of computations.
+I have created a short tutorial for Numpy. Try it out and explore numpy on your own!
